@@ -4,4 +4,4 @@
 3. Manaoor
 
 Description:
-           This project is used to show the Student data by it's data.
+           This project is used to show the Student data by it's ID.
