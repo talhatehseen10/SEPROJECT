@@ -25,6 +25,15 @@ class Data{
 				String rollno = "2k17/csee/101";
 				System.out.println("Name:"+name);
 				System.out.println("Roll no is:"+rollno);
+				String CNIC="4132-29371626-0-1" 
+				System.out.println(""+CNIC);	
+					
+					
+					
+					
+					
+					
+					
 			}	
 					
 		
