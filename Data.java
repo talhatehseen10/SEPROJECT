@@ -4,6 +4,7 @@ class Data{
 		System.out.println("Talha's ID is 11");
 		System.out.println("Sohail's ID is 12");
 		System.out.println("Shahbaz's ID is 13");
+		System.out.println("Hifza's ID is 14");
 		System.out.print("Enter Student ID:");
 		int id = in.nextInt();
 		System.out.println("**Your requesting record is searched below**");
@@ -25,16 +26,15 @@ class Data{
 				String rollno = "2k17/csee/101";
 				System.out.println("Name:"+name);
 				System.out.println("Roll no is:"+rollno);
-				String CNIC="4132-29371626-0-1" 
-				System.out.println(""+CNIC);	
-					
-					
-					
-					
-					
-					
-					
-			}	
+				String CNIC="4132-29371626-0-1"; 
+				System.out.println(""+CNIC);			
+			}
+		       if (id == 14){
+				String name = "Hifza";
+				String rollno = "2k17/csee/43";
+				System.out.println("Name:"+name);
+				System.out.println("Roll no is:"+rollno);
+			}
 					
 		
 	}
