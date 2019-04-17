@@ -40,7 +40,9 @@ class Data{
                        	if (id == 15){
 				String name = "Mansoor Ahmed Messo";
 				String rollno = "2k17/csme/9";
+				String batch= "Pre-Medical";
 				System.out.println("Name:"+name);
+				System.out.println("Batch:"+batch);
 				System.out.println("Roll no is:"+rollno);
 			}
 	
