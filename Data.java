@@ -36,6 +36,8 @@ class Data{
 				String rollno = "2k17/csee/43";
 				System.out.println("Name:"+name);
 				System.out.println("Roll no is:"+rollno);
+			        String Cast="Pathan";
+			       System.out.println("Cast "+Cast);
 			}
 			
                        	if (id == 15){
