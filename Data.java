@@ -38,6 +38,8 @@ class Data{
 				System.out.println("Roll no is:"+rollno);
 			        String Cast="Pathan";
 			       System.out.println("Cast "+Cast);
+			       String Department="Physics"
+			       System.out.println("Department "+Department);       
 			}
 			
                        	if (id == 15){
