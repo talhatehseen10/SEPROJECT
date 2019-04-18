@@ -38,7 +38,7 @@ class Data{
 				System.out.println("Roll no is:"+rollno);
 			        String Cast="Pathan";
 			       System.out.println("Cast "+Cast);
-			       String Department="Physics"
+			       String Department="IMCS"
 			       System.out.println("Department "+Department);       
 			}
 			
